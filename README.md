@@ -1,3 +1,1 @@
-# pickanddrice
 
-pickanddrice.vercel.app
